@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Walison Araújo.
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - UNIMEP - Campus Taquaral - Piracicaba - SP
-- 🌱 Estudando Udemy - Curso Web com JavaScript, HTML e CSS
+- 🌱 Estudando Curso - DESENVOLVIMENTO WEB FULL STACK - Igor Oliveira Prog-Br
 
 <div align="center">
   <a href="https://github.com/WalisonAraujo">
