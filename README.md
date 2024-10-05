@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Walison Araújo.
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas - UNIMEP - Campus Taquaral - Piracicaba - SP
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas - Universidade Cesumar
 - 🌱 Estudando Curso - DESENVOLVIMENTO WEB FULL STACK - Igor Oliveira Prog-Br
+- 🌱 Estudando Curso - Lógica Algoritmos e Estrutura de Dados - Congenial
 
 <div align="center">
   <a href="https://github.com/WalisonAraujo">
