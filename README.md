@@ -1,18 +1,24 @@
 ## Olá! Eu sou o Walison Araújo.
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas - Universidade Cesumar
-- 🌱 Estudando Curso - DESENVOLVIMENTO WEB FULL STACK - Igor Oliveira Prog-Br
-- 🌱 Estudando Curso - Lógica Algoritmos e Estrutura de Dados - Congenial
+- 🌱 Estudante de - Análise e Desenvolvimento de Sistemas - Universidade Cesumar
+- 🌱 Curso - DESENVOLVIMENTO WEB FULL STACK - Igor Oliveira Prog-Br
+- 🌱 Curso - Lógica Algoritmos e Estrutura de Dados - Congenial
+- 🌱 Curso - Basico de Java - Curso em Video
 
 <div align="center">
   <a href="https://github.com/WalisonAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalisonAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonAraujo&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalisonAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonAraujo&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Walison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Walison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Walison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+### 🛠️ Tecnologias que usei
+<div align="center">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
